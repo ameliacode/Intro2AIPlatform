@@ -1,5 +1,6 @@
 ## 인공지능플랫폼기초
 This repository is for **Introduction to AIPlatform**, GE class related material and assignments
+* Scored: A+
 ### Content
 
 |Section|Summary|Etc.|
